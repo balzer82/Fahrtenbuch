@@ -10,7 +10,7 @@ Erstellt aus [MOVES Activity Tracker](http://www.moves-app.com/) App ein Fahrten
 
 ![Moves Screenshot](https://raw.github.com/balzer82/Fahrtenbuch/master/Moves-App-Screenshot.jpg)
 
-Es werden alle Aktivitäten "Verkehrsmittel" heraus gesucht.
+Es werden alle Aktivitäten "Verkehrsmittel" heraus gesucht und Start/Ziel der Fahrten mit Google Maps zu Adressen umgewandelt.
 
 ```
 Monday, 24 Feb 2014
@@ -35,7 +35,7 @@ Argenauer Straße 18B, 12555 Berlin, Germany
 149.3km (19:32Uhr - 20:53Uhr)
 Striesen, Dresden, Germany
 ```
-und eine Excel Tabelle erstellt:
+und eine Excel Tabelle erstellt.
 
 ##Zu:
 
@@ -44,6 +44,8 @@ und eine Excel Tabelle erstellt:
 ##Wie?
 
 Mit Hilfe der [MOVES API](https://dev.moves-app.com/).
+
+![Moves API](https://dev.moves-app.com/assets/images/Connected-Apps-cloud.png)
 
 ##Wie genau?
 
