@@ -44,3 +44,11 @@ und eine Excel Tabelle erstellt:
 ##Wie?
 
 Mit Hilfe der [MOVES API](https://dev.moves-app.com/docs/api).
+
+##Wie genau?
+
+Schau dir den [Code](http://nbviewer.ipython.org/github/balzer82/Fahrtenbuch/blob/master/Fahrtenbuch-Git.ipynb?create=1) an.
+
+##Akzeptiert das Finanzamt so ein Fahrtenbuch?
+
+Ich glaube nicht. Aber es kann ja als Grundlage für ein richtiges Fahrtenbuch dienen. ;)
