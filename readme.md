@@ -4,11 +4,13 @@ Erstellt ein Fahrtenbuch aus MOVES API
 ------
 
 
-Erstellt aus
+Erstellt aus [MOVES Activity Tracker](http://www.moves-app.com/) App ein Fahrtenbuch.
 
-![Moves Screenshot]()
+##Von:
 
-das
+![Moves Screenshot](https://raw.github.com/balzer82/Fahrtenbuch/master/Moves-App-Screenshot.jpg)
+
+Es werden alle Aktivitäten "Verkehrsmittel" heraus gesucht.
 
 ```
 Monday, 24 Feb 2014
@@ -33,6 +35,12 @@ Argenauer Straße 18B, 12555 Berlin, Germany
 149.3km (19:32Uhr - 20:53Uhr)
 Striesen, Dresden, Germany
 ```
-und eine Excel Tabelle
+und eine Excel Tabelle erstellt:
 
-[Excel Tabelle]()
+##Zu:
+
+[Excel Tabelle](https://github.com/balzer82/Fahrtenbuch/blob/master/Fahrtenbuch-2014.xlsx?raw=true)
+
+##Wie?
+
+Mit Hilfe der [MOVES API](https://dev.moves-app.com/docs/api).
