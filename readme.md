@@ -39,11 +39,11 @@ und eine Excel Tabelle erstellt:
 
 ##Zu:
 
-[Excel Tabelle](https://github.com/balzer82/Fahrtenbuch/blob/master/Fahrtenbuch-2014.xlsx?raw=true)
+####[Excel Tabelle](https://github.com/balzer82/Fahrtenbuch/blob/master/Fahrtenbuch-2014.xlsx?raw=true)
 
 ##Wie?
 
-Mit Hilfe der [MOVES API](https://dev.moves-app.com/docs/api).
+Mit Hilfe der [MOVES API](https://dev.moves-app.com/).
 
 ##Wie genau?
 
