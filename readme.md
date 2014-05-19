@@ -6,6 +6,9 @@ Erstellt ein Fahrtenbuch aus MOVES API
 
 Erstellt aus [MOVES Activity Tracker](http://www.moves-app.com/) App ein Fahrtenbuch.
 
+**[Update 04/2014]** Leider hat [facebook Moves aufgekauft und die haben gleich ihre AGB geändert](http://www.zeit.de/digital/datenschutz/2014-05/moves-app-facebook-datenschutzregeln), sodass man nun automatisch alle Daten an facebook übergibt. Für mich ein Ausschlusskriterium, es so in der Form weiter zu verfolgen.
+:-(
+
 ##Von:
 
 ![Moves Screenshot](https://raw.github.com/balzer82/Fahrtenbuch/master/Moves-App-Screenshot.jpg)
